@@ -3,10 +3,5 @@
     "difficulty": "easy",
     "input": "String",
     "output": "int",
-    "tags": "hashtable,graph",
-    "dataNotInteract": "1",
-    "countingRelated": "0",
-    "fewKmanyV": "0",
-    "joiningData": "0",
-    "conditionalProblem": "1"
+    "tags": "hashtable,graph"
 }
